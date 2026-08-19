@@ -1,0 +1,6 @@
+{
+  "name": "A.R.C. LABS",
+  "description": "Advanced Research & Catalyst Laboratories — Student-led engineering research & prototyping organization, creators of CATALYST Mk-1 hybrid energy system, research areas, and hardware store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
